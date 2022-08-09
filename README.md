@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Azhar14
 - 👀 I’m interested in robotic engineer and artificial intelligence enthusias.
-- 🌱 I’m currently learning AR/VR and AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning AR/VR, IoT and AI
+- 💞️ I’m looking to collaborate on IoT Project.
+- 📫 How to reach me, you can send email to azharr140401@gmail.com
 
 <!---
 Azhar14/Azhar14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
