@@ -14,9 +14,9 @@
 ---
 
 ### 🛠️ Tech Stack  
-💻 **Languages:** C/C++, Python, JavaScript, MATLAB  
-🔌 **Hardware:** Arduino, ESP32, STM32, Raspberry Pi  
-🌐 **Frameworks & Tools:** Node-RED, TensorFlow, Flask, MQTT, KiCad  
+💻 **Languages:** C/C++, Python  
+🔌 **Hardware:** Arduino, ESP32, Raspberry Pi, STM32, Nordic Semiconductor, AVR Microchip, Mini PC
+🌐 **Frameworks & Tools:** Platform IO, Arduino IDE, ESP-IDF, STM32 Cube | Easy EDA, Eagle | TensorFlow, MediaPipline | MQTT, HTTP, LoRa, AP | Tinkercad
 ⚙️ **Version Control:** Git & GitHub  
 
 ---
@@ -28,17 +28,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar14&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)  
 
 </div>
-
----
-
-### 📦 Featured Projects  
-🎯 **Smart IoT Monitoring System** – Real-time environment data collection via ESP32 + MQTT + Node-RED  
-🤖 **3D-Printed Robot Arm** – Controlled via Bluetooth and Python-based GUI  
-🌡️ **AI-Based Air Quality Detection** – Using MQ sensors and machine learning for gas analysis  
-
-*(Pin your favorite repositories below!)*  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azhar14&repo=Smart-IoT-System&theme=tokyonight)](https://github.com/Azhar14/Smart-IoT-System)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azhar14&repo=3D-Printed-Robot-Arm&theme=tokyonight)](https://github.com/Azhar14/3D-Printed-Robot-Arm)
 
 ---
 
