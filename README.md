@@ -20,8 +20,6 @@
 
 🌐 **Frameworks & Tools:** Platform IO, Arduino IDE, ESP-IDF, STM32 Cube | Easy EDA, Eagle | TensorFlow, MediaPipline | MQTT, HTTP, LoRa, AP | Tinkercad
 
-⚙️ **Version Control:** Git & GitHub  
-
 ---
 
 ### 📈 GitHub Stats  
