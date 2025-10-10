@@ -15,8 +15,11 @@
 
 ### 🛠️ Tech Stack  
 💻 **Languages:** C/C++, Python  
+
 🔌 **Hardware:** Arduino, ESP32, Raspberry Pi, STM32, Nordic Semiconductor, AVR Microchip, Mini PC
+
 🌐 **Frameworks & Tools:** Platform IO, Arduino IDE, ESP-IDF, STM32 Cube | Easy EDA, Eagle | TensorFlow, MediaPipline | MQTT, HTTP, LoRa, AP | Tinkercad
+
 ⚙️ **Version Control:** Git & GitHub  
 
 ---
